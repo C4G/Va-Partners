@@ -30,7 +30,7 @@ function SearchBar({ onSearch }) {
           value={searchTerm}
           onChange={handleChange}
           className="form-control"
-          placeholder="Search users"
+          placeholder="Start typing user name here..."
         />
         <br/>
         <div>
